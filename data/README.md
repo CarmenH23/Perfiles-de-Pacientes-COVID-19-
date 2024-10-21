@@ -1,2 +1,2 @@
-Consultar la base de datos para este análisis
-Estos datos tienen información sobre pacientes que tuvieron sospecha de contagio de COVID-19 durante la pandemia en 2020; los datros estratégicos que se les tomaron fueron sexo, edad, comorbilidades y síntomas que presentaron.
+## Consultar la base de datos para este análisis
+Este conjunto de datos contiene registros epidemiológicos de individuos que fueron considerados casos potenciales de infección por SARS-CoV-2 durante el brote pandémico de 2020. La información recopilada incluye variables demográficas clave como el género y la edad de los pacientes, así como un perfil clínico que abarca sus condiciones de salud preexistentes (comorbilidades) y la presentación clínica manifestada (sintomatología). Estos parámetros fueron seleccionados estratégicamente para su análisis debido a su relevancia en la caracterización y manejo de casos sospechosos de COVID-19 durante la crisis sanitaria.
