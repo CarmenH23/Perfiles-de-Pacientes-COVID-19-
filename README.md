@@ -52,6 +52,26 @@ CONJUNTIVITIS: 43231.0 casos (17.11%)
 
 ### Estructura del repositorio
 
+El número de serie del volumen es 6E30-A813
+C:.
+|   README.md
+|
++---data
+|       datos_covid_2020.csv
+|       README.md
+|
++---doc
+|       .gitkeep
+|       README.md
+|
++---results
+|       .gitkeep
+|       README.md
+|
+\---src
+        .gitkeep
+        Análisis descriptivo BD covid.ipynb
+        README.md
 
 
 
