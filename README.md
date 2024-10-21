@@ -52,27 +52,6 @@ CONJUNTIVITIS: 43231.0 casos (17.11%)
 
 ### Estructura del repositorio
 
-├── LICENSE             
-|  
-├── README.md           
-|  
-├── CONTRIBUTING.md     
-|  
-├── CITATION.md         
-|  
-├── data  
-|   ├── README.md
-|   ├── incidentes_relacionados_con_tiroteos_en_colegios_en_estados_unidos_desde_1970_por_estados.csv
-|   ├── incidentes_relacionados_con_tiroteos_en_colegios_en_estados_unidos_desde_1970_por_nivel_educativo_del_centro.csv
-├── doc
-|   ├── README.md
-|  
-├── results
-|   ├── README.md
-|  
-└── src
-|   ├── README.md
-|   ├── EDA.ipynb
 
 
 
