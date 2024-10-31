@@ -52,7 +52,7 @@ CONJUNTIVITIS: 43231.0 casos (17.11%)
 
 ### Estructura del repositorio
 
-El número de serie del volumen es 6E30-A813
+
 C:.
 |   README.md
 |
